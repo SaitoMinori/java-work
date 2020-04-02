@@ -29,7 +29,7 @@ public class Hoge {
 		moge.put(10, "g89778");
 		moge.put(99, "ge");
 		moge.put(4, "ge45");
-		moge.size()
+		moge.size();
 
 		// System.out.println(moge.get(9));
 		for (Integer foo : moge.keySet()) {
@@ -40,5 +40,16 @@ public class Hoge {
 			System.out.println(fooooo);
 		}
 
+		System.out.println("AAAAA");
+
+		Map<Integer,String> coge = new HashMap<>();
+		coge.put(51, "gajgalkgj8");
+		coge.put(1000, "gjojkj");
+		coge.put(34, "plplplp");
+		coge.size();
+
+		for (Integer co : coge.keySet()){
+			System.out.println(co);
+		}
 	}
 }
