@@ -9,6 +9,7 @@
 ### 練習問題
 * com/example/practice/04/　　[【制御構造（選択）】](https://www3.cuc.ac.jp/~miyata/classes/prg1/04/exercise.html)
 * com/example/practice/05/　　[【制御構造（繰り返し1）】](https://www3.cuc.ac.jp/~miyata/classes/prg1/05/index.html)
+* com/example/practice/06/　　[【制御構造（繰り返し2）】](https://www3.cuc.ac.jp/~miyata/classes/prg1/05/index.html)
 
 
 ### memo
